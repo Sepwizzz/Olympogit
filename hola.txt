@@ -1,8 +1,0 @@
-hola como estan 
-<<<<<<< HEAD
-holaaaa
-=======
-
-
-Muy bien musha gracias --Thomas
->>>>>>> 3d688cfecc7a2a31c8de3db651f01298238a4eea
