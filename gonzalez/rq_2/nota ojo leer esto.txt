@@ -1,0 +1,12 @@
+pueden surgir porblemas con la ruta de la base de datos enton copie la carpeta (db olympo) pegela donde quiera y copie la ruta y en el archivo 
+(admindb.py) en la linea 4 pege la ruta como str y ya puede ver las funcionalidades y para navegar en lo metodos ir al archivo (menu.py)
+
+nota: no pongo la base de datos en el mismo archivo por que no quiero tener tantas bases de datos en mi pc y asi lo hicie en mi archivolo local en mi pc
+se podria poner la base de datos en este archivo y solo poner (olympo.db) pero ya tengo todo acomodado entoncees espero entiendan 
+
+
+
+
+
+
+rq_2 echo por andrey felipe gonzalez martines 
