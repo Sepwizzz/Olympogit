@@ -1,0 +1,2 @@
+El archivo OlympoReservas contiene las funciones para el registro, la eliminacion y actualizacion de reservas en la base de datos Olympo.db, la ruta cambiara depende
+en que ordenador se ejecute el sistema, solo hay que cambiar la ruta para que funcione de manera correcta
