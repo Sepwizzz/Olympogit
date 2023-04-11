@@ -1,0 +1,4 @@
+
+#aqui se realizara el loging y de acuerdo con el usuario lo enviara a su modulo
+
+#OBSERVACION GENERAL: EN TODAS LAS CONECCIONES DE SQLITE APARECE UNA RUTA FALSA, HAY QUE CAMBIARLA DE ACUERDO A EL EQUIPO DONDE SE VALLA A EJECUTAR
